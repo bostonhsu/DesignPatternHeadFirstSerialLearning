@@ -7,7 +7,7 @@ public class ChocolateBoiler {
     private boolean empty;
     private boolean boiled;
 
-    private static ChocolateBoiler uniqueChocolateBoiler;
+    private static ChocolateBoiler uniqueChocolateBoiler = new ChocolateBoiler();
 
     private ChocolateBoiler() {
         empty = true;
@@ -15,9 +15,6 @@ public class ChocolateBoiler {
     }
 
     public static ChocolateBoiler getInstance() {
-        if (uniqueChocolateBoiler == null) {
-            uniqueChocolateBoiler = new ChocolateBoiler();
-        }
         return uniqueChocolateBoiler;
     }
 
