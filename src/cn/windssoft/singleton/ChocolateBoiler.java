@@ -7,16 +7,20 @@ public class ChocolateBoiler {
     private boolean empty;
     private boolean boiled;
 
-    private static ChocolateBoiler uniqueChocolateBoiler;
+    private volatile static ChocolateBoiler uniqueChocolateBoiler;
 
     private ChocolateBoiler() {
         empty = true;
         boiled = false;
     }
 
-    public static synchronized ChocolateBoiler getInstance() {
+    public static ChocolateBoiler getInstance() {
         if (uniqueChocolateBoiler == null) {
-            uniqueChocolateBoiler = new ChocolateBoiler();
+            synchronized (ChocolateBoiler.class) {
+                if (uniqueChocolateBoiler == null) {
+                    uniqueChocolateBoiler = new ChocolateBoiler();
+                }
+            }
         }
         return uniqueChocolateBoiler;
     }
