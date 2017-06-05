@@ -18,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -36,6 +37,7 @@
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/TV.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/OutdoorLight.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/SecurityControl.java" />
+        <option value="$PROJECT_DIR$/src/cn/windssoft/command/Command.java" />
       </list>
     </option>
   </component>
@@ -444,6 +446,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/command/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
