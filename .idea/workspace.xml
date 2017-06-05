@@ -40,6 +40,7 @@
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/Command.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/Light.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/LightOnCommand.java" />
+        <option value="$PROJECT_DIR$/src/cn/windssoft/command/SimpleRemoteControl.java" />
       </list>
     </option>
   </component>
@@ -482,6 +483,19 @@
             <element signature="e#217#218#0" expanded="true" />
             <element signature="e#260#261#0" expanded="true" />
             <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/command/SimpleRemoteControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
           </folding>
         </state>
       </provider>
