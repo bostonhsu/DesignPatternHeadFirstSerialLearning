@@ -14,4 +14,9 @@ public class GarageDoorCloseCommand implements Command {
     public void execute() {
         _garageDoor.down();
     }
+
+    @Override
+    public void undo() {
+        _garageDoor.up();
+    }
 }

@@ -14,4 +14,9 @@ public class StereoOffCommand implements Command {
     public void execute() {
         _stereo.off();
     }
+
+    @Override
+    public void undo() {
+        _stereo.on();
+    }
 }
