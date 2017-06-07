@@ -18,6 +18,8 @@ public class MacroCommand implements Command {
 
     @Override
     public void undo() {
-
+        for (int i = 0; i < _commands.length; i++) {
+            _commands[i].undo();
+        }
     }
 }
