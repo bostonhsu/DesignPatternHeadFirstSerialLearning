@@ -1,20 +1,20 @@
 package cn.windssoft.command;
 
 /**
- * Created by Administrator on 2017/6/6.
+ * Created by Boston Hsu on 6/7/2017.
  */
-public class CeilingFanOffCommand implements Command {
+public class CeilingFanHighCommand implements Command {
     CeilingFan _ceilingFan;
     int _prevSpeed;
 
-    public CeilingFanOffCommand(CeilingFan ceilingFan) {
+    public CeilingFanHighCommand(CeilingFan ceilingFan) {
         _ceilingFan = ceilingFan;
     }
 
     @Override
     public void execute() {
         _prevSpeed = _ceilingFan.getSpeed();
-        _ceilingFan.off();
+        _ceilingFan.high();
     }
 
     @Override
