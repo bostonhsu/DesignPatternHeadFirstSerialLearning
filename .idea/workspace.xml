@@ -59,8 +59,8 @@
       <file leaf-file-name="BeverageTestDrive.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/windssoft/template/BeverageTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            <state relative-caret-position="363">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -248,7 +248,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DuckTestDrive">
+  <component name="RunManager" selected="Application.BeverageTestDrive">
     <configuration default="false" name="RemoteControlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -297,6 +297,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="cn.windssoft.adapter.DuckTestDrive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignPatternHeadFirstSerialLearning" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BeverageTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.windssoft.template.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.windssoft.template.BeverageTestDrive" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -513,16 +533,18 @@
       <listeners />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.RemoteControlTest" />
       <item index="1" class="java.lang.String" itemvalue="Application.RemoteLoader" />
       <item index="2" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RemoteLoader" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RemoteControlTest" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RemoteLoader" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RemoteControlTest" />
       </list>
     </recent_temporary>
   </component>
@@ -966,8 +988,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/windssoft/template/BeverageTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        <state relative-caret-position="363">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding />
         </state>
       </provider>
