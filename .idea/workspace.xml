@@ -13,15 +13,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DinerMenu.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/DinerMenu.java">
+      <file leaf-file-name="MenuTestDrive.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="102" lean-forward="false" selection-start-line="16" selection-start-column="102" selection-end-line="16" selection-end-column="102" />
-              <folding>
-                <element signature="e#1114#1115#0" expanded="true" />
-                <element signature="e#1146#1147#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="266">
+              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -47,7 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/windssoft/command/SimpleRemoteControl.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/RemoteControl.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/CD.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/Radio.java" />
@@ -98,6 +94,7 @@
         <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuItem.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/PanCakeHouseMenu.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/DinerMenu.java" />
+        <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java" />
       </list>
     </option>
   </component>
@@ -630,13 +627,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/command/RemoteControlTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/windssoft/command/Light.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -946,12 +936,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/DinerMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="102" lean-forward="false" selection-start-line="16" selection-start-column="102" selection-end-line="16" selection-end-column="102" />
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="e#1114#1115#0" expanded="true" />
             <element signature="e#1146#1147#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
