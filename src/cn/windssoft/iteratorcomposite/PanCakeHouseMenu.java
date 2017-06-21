@@ -1,6 +1,7 @@
 package cn.windssoft.iteratorcomposite;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 /**
  * Created by Administrator on 2017/6/9.
@@ -23,6 +24,6 @@ public class PanCakeHouseMenu {
     }
 
     public Iterator createIterator() {
-        return new PancakeHouseIterator(_menuItems);
+        return _menuItems.iterator();
     }
 }
