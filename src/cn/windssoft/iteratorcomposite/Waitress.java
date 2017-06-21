@@ -1,20 +1,23 @@
 package cn.windssoft.iteratorcomposite;
 
+import java.util.Iterator;
+
 /**
  * Created by Administrator on 2017/6/9.
  */
 
 public class Waitress {
-    PanCakeHouseMenu panCakeHouseMenu;
-    DinerMenu dinerMenu;
+    Menu pancakeHouseMenu;
+    Menu dinerMenu;
 
-    public Waitress(PanCakeHouseMenu panCakeHouseMenu, DinerMenu dinerMenu) {
-        this.panCakeHouseMenu = panCakeHouseMenu;
+
+    public Waitress(Menu panCakeHouseMenu, Menu dinerMenu) {
+        this.pancakeHouseMenu = panCakeHouseMenu;
         this.dinerMenu = dinerMenu;
     }
 
     public void printMenu() {
-        Iterator pancakeIterator = panCakeHouseMenu.createIterator();
+        Iterator pancakeIterator = pancakeHouseMenu.createIterator();
         Iterator dinerIterator = dinerMenu.createIterator();
         System.out.println("MENU\n-------\nBREAKFAST");
         printMenu(pancakeIterator);

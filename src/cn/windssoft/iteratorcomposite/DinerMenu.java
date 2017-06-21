@@ -1,9 +1,11 @@
 package cn.windssoft.iteratorcomposite;
 
+import java.util.Iterator;
+
 /**
  * Created by Administrator on 2017/6/9.
  */
-public class DinerMenu {
+public class DinerMenu implements Menu {
     static final int MAX_ITEMS = 6;
     int numberOfItems = 0;
     MenuItem[] menuItems;
