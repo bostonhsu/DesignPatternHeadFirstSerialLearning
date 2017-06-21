@@ -87,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/windssoft/command/Stereo.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/Command.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/LightOnCommand.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/NoCommand.java" />
@@ -138,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/CafeMenu.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/Waitress.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/AlternatingDinerMenuIterator.java" />
       </list>
     </option>
   </component>
@@ -670,7 +670,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/command/GarageDoorCloseCommand.java" />
     <entry file="file://$PROJECT_DIR$/src/cn/windssoft/command/GarageDoorOpenCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -979,6 +978,16 @@
         <state relative-caret-position="924">
           <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/AlternatingDinerMenuIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
