@@ -1,11 +1,12 @@
 package cn.windssoft.iteratorcomposite;
 
 import java.util.Hashtable;
+import java.util.Iterator;
 
 /**
  * Created by Boston Hsu on 6/21/2017.
  */
-public class CafeMenu {
+public class CafeMenu implements Menu {
     Hashtable menuItems = new Hashtable();
 
     public CafeMenu() {
@@ -19,7 +20,8 @@ public class CafeMenu {
         menuItems.put(menuItem.getName(), menuItem);
     }
 
-    public Hashtable getItems() {
-        return menuItems;
+    @Override
+    public Iterator createIterator() {
+        return menuItems.values().iterator();
     }
 }
