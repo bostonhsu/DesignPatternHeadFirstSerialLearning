@@ -3,6 +3,7 @@ package cn.windssoft.iteratorcomposite;
 /**
  * Created by Administrator on 2017/6/9.
  */
+
 public class Waitress {
     PanCakeHouseMenu panCakeHouseMenu;
     DinerMenu dinerMenu;
