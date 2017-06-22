@@ -6,7 +6,7 @@ import java.util.Iterator;
 /**
  * Created by Boston Hsu on 6/21/2017.
  */
-public class CafeMenu implements Menu {
+public class CafeMenu extends MenuComponent {
     Hashtable menuItems = new Hashtable();
 
     public CafeMenu() {
@@ -20,7 +20,6 @@ public class CafeMenu implements Menu {
         menuItems.put(menuItem.getName(), menuItem);
     }
 
-    @Override
     public Iterator createIterator() {
         return menuItems.values().iterator();
     }
