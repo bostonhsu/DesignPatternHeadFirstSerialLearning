@@ -24,7 +24,7 @@ public class Waitress {
 
     private void printMenu(Iterator iterator) {
         while (iterator.hasNext()) {
-            MenuItem menuItem = (MenuItem)iterator.next();
+            MenuItemOld menuItem = (MenuItemOld)iterator.next();
             System.out.print(menuItem.getName() + "\t");
             System.out.print(menuItem.getDescription() + "\t");
             System.out.println(menuItem.getRice());

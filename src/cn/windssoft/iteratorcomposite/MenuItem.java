@@ -1,34 +1,46 @@
 package cn.windssoft.iteratorcomposite;
 
 /**
- * Created by Administrator on 2017/6/9.
+ * Created by Administrator on 2017/6/22.
  */
-public class MenuItem {
-    String _name;
-    String _description;
-    boolean _vegetarian;
-    double _rice;
+public class MenuItem extends MenuComponent {
+    String name;
+    String description;
+    boolean vegetarian;
+    double price;
 
-    public MenuItem(String name, String description, boolean vegetarian, double rice) {
-        _name = name;
-        _description = description;
-        _vegetarian = vegetarian;
-        _rice = rice;
+    public MenuItem(String name,
+                    String description,
+                    boolean vegetarian,
+                    double price) {
+        this.name = name;
+        this.description = description;
+        this.vegetarian = vegetarian;
+        this.price = price;
     }
 
     public String getName() {
-        return _name;
+        return name;
     }
 
     public String getDescription() {
-        return _description;
+        return description;
+    }
+
+    public double getPrice() {
+        return price;
     }
 
     public boolean isVegetarian() {
-        return _vegetarian;
+        return vegetarian;
     }
 
-    public double getRice() {
-        return _rice;
+    public void print() {
+        System.out.print(" " + getName());
+        if (isVegetarian()) {
+            System.out.print("(v)");
+        }
+        System.out.println(", " + getPrice());
+        System.out.println("     -- " + getDescription());
     }
 }

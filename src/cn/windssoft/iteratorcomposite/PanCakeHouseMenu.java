@@ -19,7 +19,7 @@ public class PanCakeHouseMenu implements Menu {
     }
 
     public void addItem(String name, String description, boolean vegetarian, double price) {
-        MenuItem menuItem = new MenuItem(name, description, vegetarian, price);
+        MenuItemOld menuItem = new MenuItemOld(name, description, vegetarian, price);
         _menuItems.add(menuItem);
     }
 

@@ -7,10 +7,10 @@ import java.util.Calendar;
  * Created by Boston Hsu on 6/21/2017.
  */
 public class AlternatingDinerMenuIterator implements Iterator {
-    MenuItem[] items;
+    MenuItemOld[] items;
     int position;
 
-    public AlternatingDinerMenuIterator(MenuItem[] items) {
+    public AlternatingDinerMenuIterator(MenuItemOld[] items) {
         this.items = items;
         Calendar rightNow = Calendar.getInstance();
         position = rightNow.get(Calendar.DAY_OF_WEEK) % 2;
@@ -27,7 +27,7 @@ public class AlternatingDinerMenuIterator implements Iterator {
 
     @Override
     public Object next() {
-        MenuItem item = items[position];
+        MenuItemOld item = items[position];
         position = position + 2;
         return item;
     }

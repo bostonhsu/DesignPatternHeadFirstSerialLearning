@@ -6,12 +6,12 @@ import java.util.Iterator;
  * Created by Boston Hsu on 2017/6/9.
  */
 public class DinerMenuIterator implements Iterator {
-    MenuItem[] menuItems;
+    MenuItemOld[] menuItems;
     int position = 0;
 
     public DinerMenuIterator() {}
 
-    public DinerMenuIterator(MenuItem[] menuItems) {
+    public DinerMenuIterator(MenuItemOld[] menuItems) {
         this.menuItems = menuItems;
     }
 
@@ -26,7 +26,7 @@ public class DinerMenuIterator implements Iterator {
 
     @Override
     public Object next() {
-        MenuItem menuItem = menuItems[position];
+        MenuItemOld menuItem = menuItems[position];
         position ++;
         return menuItem;
     }
