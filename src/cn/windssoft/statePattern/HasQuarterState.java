@@ -1,9 +1,12 @@
 package cn.windssoft.statePattern;
 
+import java.util.Random;
+
 /**
  * Created by Administrator on 2017/6/22.
  */
 public class HasQuarterState implements State {
+    Random randomWinner = new Random(System.currentTimeMillis());
     GumballMachine gumballMachine;
 
     public HasQuarterState(GumballMachine gumballMachine) {
