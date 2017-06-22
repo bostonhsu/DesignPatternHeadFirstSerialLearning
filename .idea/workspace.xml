@@ -18,11 +18,101 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GumballMonitorTestDrive.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/statePattern/GumballMonitorTestDrive.java">
+      <file leaf-file-name="GumballMachine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/GumballMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GumballMonitor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/GumballMonitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SoldOutState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/SoldOutState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SoldState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/SoldState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WinnerState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/WinnerState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoQuarterState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/NoQuarterState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GumballMonitorTestDrive.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/GumballMonitorTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="State.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/State.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HasQuarterState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/HasQuarterState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GumballMachineTestDrive.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/GumballMachineTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -50,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/windssoft/command/CeilingFanLowCommand.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/CeilingFanOffCommand.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/TV.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/Hottub.java" />
@@ -101,6 +190,7 @@
         <option value="$PROJECT_DIR$/src/cn/windssoft/statePattern/SoldOutState.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/statePattern/SoldState.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/statePattern/WinnerState.java" />
+        <option value="$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/GumballMachineTestDrive.java" />
       </list>
     </option>
   </component>
@@ -199,6 +289,9 @@
     <property name="SearchEverywhereHistoryKey" value="Gum&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/statePattern/GumballMachine.java&#10;gum&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/statePattern/GumballMachineTestDrive.java&#10;dri&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java&#10;Wai&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/Waitress.java&#10;MenuT&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java&#10;MenuDr&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java&#10;wai&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/Waitress.java&#10;dinermenu&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/DinerMenu.java&#10;wait&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/Waitress.java&#10;Itera&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/PancakeHouseIterator.java&#10;RemoteLoad&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/RemoteLoader.java&#10;C&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/CeilingFanOffCommand.java&#10;ceilingfan&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/CeilingFan.java&#10;RemoteCon&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/RemoteControl.java&#10;Command&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/NoCommand.java&#10;LightOn&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/LightOnCommand.java&#10;Comm&#9;ACTION&#9;CheckinProject&#10;Stereo&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/Stereo.java&#10;GarageDoor&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/GarageDoor.java&#10;Lig&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/Light.java" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\GitHub\DesignPatternHeadFirstSerialLearning\src\cn\windssoft\rmiPattern" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="cn.windssoft.statePattern" />
       <recent name="cn.windssoft.iteratorcomposite" />
@@ -636,70 +729,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/command/LightOnCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/command/TVOnCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/command/HottubOnCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/command/TVOffCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/command/HottubOffCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/command/RemoteLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/command/MacroCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/DesignPatternHeadFirstSerialLearning/cn/windssoft/adapter/Duck.java" />
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/adapter/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/adapter/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/windssoft/adapter/WildTurkey.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
@@ -1036,8 +1065,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/windssoft/statePattern/GumballMonitorTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="247">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/GumballMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/SoldOutState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/SoldState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/WinnerState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/NoQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/GumballMonitorTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/HasQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/rmiPattern/statePattern/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
