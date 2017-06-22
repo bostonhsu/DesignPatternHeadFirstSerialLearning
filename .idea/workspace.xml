@@ -13,64 +13,27 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MenuItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuItem.java">
+      <file leaf-file-name="Waitress.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/Waitress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="49" column="23" lean-forward="true" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+            <state relative-caret-position="323">
+              <caret line="27" column="51" lean-forward="true" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
               <folding>
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#1093#1094#0" expanded="true" />
-                <element signature="e#1134#1135#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NullIterator.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/NullIterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-              <folding>
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Menu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/Menu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CompositeIterator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/CompositeIterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="35" column="55" lean-forward="true" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
                 <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#1154#1155#0" expanded="true" />
-                <element signature="e#1211#1212#0" expanded="true" />
-                <element signature="e#1278#1279#0" expanded="true" />
-                <element signature="e#1335#1336#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MenuTestDrive.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -137,9 +100,6 @@
         <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/DinerMenuIterator.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/Iterator.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/AlternatingDinerMenuIterator.java" />
-        <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuComponent.java" />
-        <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/Waitress.java" />
-        <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/CafeMenu.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/PanCakeHouseMenu.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/DinerMenu.java" />
@@ -147,6 +107,9 @@
         <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuItem.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/CompositeIterator.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/NullIterator.java" />
+        <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuComponent.java" />
+        <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/Waitress.java" />
+        <option value="$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java" />
       </list>
     </option>
   </component>
@@ -242,7 +205,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-    <property name="SearchEverywhereHistoryKey" value="MenuT&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java&#10;Wai&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/Waitress.java&#10;MenuDr&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java&#10;wai&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/Waitress.java&#10;dinermenu&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/DinerMenu.java&#10;wait&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/Waitress.java&#10;Itera&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/PancakeHouseIterator.java&#10;RemoteLoad&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/RemoteLoader.java&#10;C&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/CeilingFanOffCommand.java&#10;ceilingfan&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/CeilingFan.java&#10;RemoteCon&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/RemoteControl.java&#10;Command&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/NoCommand.java&#10;LightOn&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/LightOnCommand.java&#10;Comm&#9;ACTION&#9;CheckinProject&#10;Stereo&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/Stereo.java&#10;GarageDoor&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/GarageDoor.java&#10;Lig&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/Light.java" />
+    <property name="SearchEverywhereHistoryKey" value="dri&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java&#10;Wai&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/Waitress.java&#10;MenuT&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java&#10;MenuDr&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java&#10;wai&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/Waitress.java&#10;dinermenu&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/DinerMenu.java&#10;wait&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/Waitress.java&#10;Itera&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/iteratorcomposite/PancakeHouseIterator.java&#10;RemoteLoad&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/RemoteLoader.java&#10;C&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/CeilingFanOffCommand.java&#10;ceilingfan&#9;FILE&#9;file://C:/Users/Boston Hsu/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/CeilingFan.java&#10;RemoteCon&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/RemoteControl.java&#10;Command&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/NoCommand.java&#10;LightOn&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/LightOnCommand.java&#10;Comm&#9;ACTION&#9;CheckinProject&#10;Stereo&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/Stereo.java&#10;GarageDoor&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/GarageDoor.java&#10;Lig&#9;FILE&#9;file://C:/Users/Administrator/Documents/GitHub/DesignPatternHeadFirstSerialLearning/src/cn/windssoft/command/Light.java" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -929,31 +892,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
-            <element signature="e#898#899#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/AlternatingDinerMenuIterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -970,19 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/Waitress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding>
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/DinerMenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -995,24 +920,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="50" lean-forward="false" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1035,10 +942,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/NullIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="51" column="17" lean-forward="false" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="49" column="23" lean-forward="true" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        <state relative-caret-position="475">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
           <folding>
             <element signature="e#630#631#0" expanded="true" />
             <element signature="e#664#665#0" expanded="true" />
@@ -1048,18 +980,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/NullIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="437">
+          <caret line="41" column="50" lean-forward="true" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
           <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/Waitress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" column="51" lean-forward="true" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/MenuTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
