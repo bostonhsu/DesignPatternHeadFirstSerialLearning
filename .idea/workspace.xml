@@ -13,15 +13,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HasQuarterState.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HasQuarterState.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/windssoft/statePattern/HasQuarterState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="8" column="65" lean-forward="false" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+            <state relative-caret-position="171">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
               <folding>
-                <element signature="e#421#422#0" expanded="true" />
                 <element signature="e#491#492#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GumballMachineTestDrive.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/statePattern/GumballMachineTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -48,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/windssoft/command/CeilingFan.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/CeilingFanHighCommand.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/CeilingFanMediumCommand.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/command/CeilingFanLowCommand.java" />
@@ -99,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/cn/windssoft/statePattern/GumballMachine.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/statePattern/WinnerState.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/statePattern/HasQuarterState.java" />
+        <option value="$PROJECT_DIR$/src/cn/windssoft/statePattern/GumballMachineTestDrive.java" />
       </list>
     </option>
   </component>
@@ -215,27 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SoldOutState">
-    <configuration default="false" name="BeverageTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.windssoft.template.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.windssoft.template.BeverageTestDrive" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DesignPatternHeadFirstSerialLearning" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.GumballMachineTestDrive">
     <configuration default="false" name="DuckSortTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -304,6 +293,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="cn.windssoft.statePattern.SoldOutState" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignPatternHeadFirstSerialLearning" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.windssoft.statePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.windssoft.statePattern.GumballMachineTestDrive" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -521,19 +530,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DuckSortTestDrive" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MyFrame" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SoldOutState" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DuckSortTestDrive" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MyFrame" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SoldOutState" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GumballMachineTestDrive" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SoldOutState" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MyFrame" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DuckSortTestDrive" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BeverageTestDrive" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GumballMachineTestDrive" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SoldOutState" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MyFrame" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DuckSortTestDrive" />
       </list>
     </recent_temporary>
   </component>
@@ -554,7 +563,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -567,7 +576,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32659408" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32659408" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965118" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -633,13 +642,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/command/TV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/windssoft/command/Hottub.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -1036,12 +1038,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/windssoft/statePattern/HasQuarterState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="65" lean-forward="false" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+        <state relative-caret-position="171">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
           <folding>
-            <element signature="e#421#422#0" expanded="true" />
             <element signature="e#491#492#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/statePattern/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
