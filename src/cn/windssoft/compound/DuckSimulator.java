@@ -9,13 +9,15 @@ public class DuckSimulator {
         Quackable redheadDuck = new RedheadDuck();
         Quackable duckCall = new DuckCall();
         Quackable rubberDuck = new RubberDuck();
+        Quackable goose = new GooseAdapter(new Goose());
 
-        System.out.println("\nDuck Simulator");
+        System.out.println("Duck Simulator: Goose play in");
 
         simulate(mallardDuck);
         simulate(redheadDuck);
         simulate(duckCall);
         simulate(rubberDuck);
+        simulate(goose);
     }
 
     private void simulate(Quackable duck) {
