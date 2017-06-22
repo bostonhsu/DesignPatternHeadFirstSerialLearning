@@ -80,7 +80,7 @@ public class GumballMachine {
         return count;
     }
 
-    public State getState() {
-        return state;
+    public String getState() {
+        return state.toString();
     }
 }

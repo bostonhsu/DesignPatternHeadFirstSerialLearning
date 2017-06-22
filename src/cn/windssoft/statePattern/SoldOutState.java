@@ -47,4 +47,8 @@ public class SoldOutState implements State {
 
         System.out.println(num);
     }
+
+    public String ToString() {
+        return this.getClass().toString();
+    }
 }

@@ -41,4 +41,8 @@ public class WinnerState implements State {
             }
         }
     }
+
+    public String ToString() {
+        return this.getClass().toString();
+    }
 }
