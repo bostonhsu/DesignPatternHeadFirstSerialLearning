@@ -8,26 +8,14 @@ import java.util.Iterator;
  */
 
 public class Waitress {
-    ArrayList menus;
 
-    public Waitress(ArrayList menus) {
-        this.menus = menus;
+    MenuComponent allMenus;
+
+    public Waitress(MenuComponent allMenus) {
+        this.allMenus = allMenus;
     }
 
     public void printMenu() {
-        Iterator menuIterator = menus.iterator();
-        while (menuIterator.hasNext()) {
-            Menu menu = (Menu) menuIterator.next();
-            printMenu(menu.createIterator());
-        }
-    }
-
-    private void printMenu(Iterator iterator) {
-        while (iterator.hasNext()) {
-            MenuItemOld menuItem = (MenuItemOld)iterator.next();
-            System.out.print(menuItem.getName() + "\t");
-            System.out.print(menuItem.getDescription() + "\t");
-            System.out.println(menuItem.getRice());
-        }
+        allMenus.print();
     }
 }

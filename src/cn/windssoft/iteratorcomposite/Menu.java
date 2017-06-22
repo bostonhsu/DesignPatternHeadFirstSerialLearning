@@ -1,6 +1,7 @@
 package cn.windssoft.iteratorcomposite;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 /**
  * Created by Boston Hsu on 6/21/2017.
@@ -39,5 +40,11 @@ public class Menu extends MenuComponent {
         System.out.print("\n" + getName());
         System.out.println(", " + getDescription());
         System.out.println("-------------------------");
+
+        Iterator iterator = menuComponets.iterator();
+        while (iterator.hasNext()) {
+            MenuComponent menuComponent = (MenuComponent)iterator.next();
+            menuComponent.print();
+        }
     }
 }
