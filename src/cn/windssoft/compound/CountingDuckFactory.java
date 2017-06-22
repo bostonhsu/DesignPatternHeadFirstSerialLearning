@@ -23,4 +23,9 @@ public class CountingDuckFactory extends AbstractDuckFactory {
     public Quackable createRubberDuck() {
         return new QuackCounter(new RubberDuck());
     }
+
+    @Override
+    public Quackable createGoose() {
+        return new QuackCounter(new GooseAdapter(new Goose()));
+    }
 }
