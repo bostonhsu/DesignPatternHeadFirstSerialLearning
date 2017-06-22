@@ -80,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DuckSimulator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DuckSimulator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/windssoft/compound/DuckSimulator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -88,6 +88,19 @@
               <folding>
                 <element signature="e#556#557#0" expanded="true" />
                 <element signature="e#584#585#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Goose.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/windssoft/compound/Goose.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding>
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/windssoft/adapter/WildTurkey.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/adapter/TurkeyAdapter.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/adapter/DuckTestDrive.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/adapter/DuckAdapter.java" />
@@ -166,6 +178,7 @@
         <option value="$PROJECT_DIR$/src/cn/windssoft/compound/DuckCall.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/compound/RubberDuck.java" />
         <option value="$PROJECT_DIR$/src/cn/windssoft/compound/DuckSimulator.java" />
+        <option value="$PROJECT_DIR$/src/cn/windssoft/compound/Goose.java" />
       </list>
     </option>
   </component>
@@ -704,7 +717,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/template/Duck.java" />
     <entry file="file://$PROJECT_DIR$/src/cn/windssoft/template/DuckSortTestDrive.java" />
     <entry file="file://$PROJECT_DIR$/src/cn/windssoft/template/MyFrame.java" />
     <entry file="file://$PROJECT_DIR$/src/cn/windssoft/iteratorcomposite/DinerMenuIterator.java">
@@ -1182,6 +1194,17 @@
           <folding>
             <element signature="e#556#557#0" expanded="true" />
             <element signature="e#584#585#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/windssoft/compound/Goose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
           </folding>
         </state>
       </provider>
