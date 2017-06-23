@@ -8,17 +8,14 @@ import java.util.Observer;
 public class QuackCounter implements Quackable {
     Quackable duck;
     static int numberOfQuacks;
-    Observable observable;
 
     public QuackCounter(Quackable duck) {
         this.duck = duck;
-        this.observable = new Observable(this);
     }
 
     @Override
     public void quack() {
         duck.quack();
-        notifyObservers();
         numberOfQuacks ++;
     }
 
@@ -28,11 +25,11 @@ public class QuackCounter implements Quackable {
 
     @Override
     public void registerObserver(Observer observer) {
-        observable.registerObserver(observer);
+        duck.registerObserver(observer);
     }
 
     @Override
     public void notifyObservers() {
-        observable.notifyObservers();
+        duck.notifyObservers();
     }
 }
